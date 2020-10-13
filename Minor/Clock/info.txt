@@ -1,0 +1,4 @@
+Prerequisite:
+->python and python tkinter
+
+Install any of the ds-digi file to get the desired font
