@@ -1,0 +1,5 @@
+Made with help of TechWithTim
+
+Prerequisite:
+  Python
+  Pygame
