@@ -39,7 +39,7 @@ ball.goto(0, 0) # Drawing ball at the center of the screen
 # change in x and y coordinate
 ball.dx = 0.3
 ball.dy = -0.3
-
+#p[ush from terminal
 # Creating Scoreboard
 pen = turtle.Turtle()
 pen.speed(0)
